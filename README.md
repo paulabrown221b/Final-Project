@@ -1,6 +1,6 @@
 # Final-Project
 
-Group 5: "Running on Five Hours of Sleep"
+Group 5: "Functioning on Five Hours of Sleep"
 
 Team Members:
 Paula Brown - pib13@pitt.edu
